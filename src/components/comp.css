@@ -1,0 +1,19 @@
+.tag-titl {
+  text-align: center;
+  margin-right: 100px;
+  color: #d99f6c;
+}
+
+.keyboard-conf {
+  font-size: 15px;
+  margin: auto;
+}
+
+.text-desc {
+  border-color: #d99f6c;
+  border-style: solid;
+  width: 500px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
